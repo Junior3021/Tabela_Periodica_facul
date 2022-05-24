@@ -1,0 +1,184 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100&display=swap');
+
+body{
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    font-size: 4vw;
+    font-family:'Encode Sans', sans-serif;
+    padding: 5vw;
+    text-align: center;
+}
+
+section {
+    display: flex;
+    align-items: center;
+    padding-bottom: 30px;
+}
+
+table {
+    display: block;
+    color: white; 
+    margin: auto;
+    font-family:  'Open Sans', sans-serif;
+}
+
+td {
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+.lacuna {
+    border: 1px solid black;
+}
+
+.num_Atomico {
+    font-size: 10px;
+    padding-left: 5px;
+}
+
+.letra_Elemento {
+    display: block;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+    padding: 0px 15px 2px 15px;
+}
+
+.massa_Atomica {
+    display: block;
+    text-align: center;
+    font-size: 12px;
+    padding: 0px 10px 2px 10px;
+}
+
+aside {
+    display: flex;
+    margin: auto;
+}
+
+.verde { 
+    color: greenyellow;
+    border: 1px solid greenyellow;    
+}
+
+.laranja {
+    color: orange;
+    border: 1px solid orange;
+}
+
+.amarelo {
+    color: yellow;
+    border: 1px solid yellow;
+}
+
+.rosa {
+    color: #e77878;
+    border: 1px solid #e77878;
+}
+
+.azul_Claro {
+    color: #7BDEE5;
+    border: 1px solid #7BDEE5;
+}
+
+.lilas {
+    color: #D49BCD;
+    border: 1px solid #D49BCD;
+}
+
+.cinza_Azulado {
+    color: #91BDCB;
+    border: 1px solid #91BDCB;
+}
+
+.verde_Agua {
+    color: #44A69C;
+    border: 1px solid #44A69C;
+}
+
+.azul_Medio {
+    color: #70CBEB;
+    border: 1px solid #70CBEB;
+}
+
+.azul_Escuro {
+    color: #3D9EE3;
+    border: 1px solid #3D9EE3;
+}
+
+.z {
+    padding-left: 2px;
+    padding-right: 20px;
+    border: 1px solid black;
+    border-radius: 0px;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.verde2 {
+    padding: 10px;
+    border: 1px solid greenyellow;
+    border-radius: 0px;
+}
+
+.laranja2 {
+    padding: 10px;
+    border: 1px solid orange;
+    border-radius: 0px;
+}
+
+.amarelo2 {
+    padding: 10px;
+    border: 1px solid yellow;
+    border-radius: 0px;
+}
+
+.rosa2 {
+    padding: 10px;
+    border: 1px solid #e77878;
+    border-radius: 0px;
+}
+
+.azul_Claro2 {
+    padding: 10px;
+    border: 1px solid #7BDEE5;
+    border-radius: 0px;
+}
+
+.lilas2 {
+    padding: 10px;
+    border: 1px solid #D49BCD;
+    border-radius: 0px;
+}
+
+.cinza_Azulado2 {
+    padding: 10px;
+    border: 1px solid #91BDCB;
+    border-radius: 0px;
+}
+
+.verde_Agua2 {
+    padding: 10px;
+    border: 1px solid #44A69C;
+    border-radius: 0px;
+}
+
+.azul_Medio2 {
+    padding: 10px;
+    border: 1px solid #70CBEB;
+    border-radius: 0px;
+}
+
+.azul_Escuro2 {
+    padding: 10px;
+    border: 1px solid #3D9EE3;
+    border-radius: 0px;
+}
